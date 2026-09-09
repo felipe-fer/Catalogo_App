@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Catalogo de Carros</string>
+    <string name="title_main">COMPARATIVO DE CARROS</string>
+    <string name="subtitle_main">Escolha um veículo para conhecer seus detalhes</string>
+    <string name="no_car_selected">Nenhum carro selecionado</string>
+    <string name="select_car_hint">Selecione um carro</string>
+    <string name="btn_details">DETALHES</string>
+    <string name="btn_clear">LIMPAR</string>
+    <string name="btn_back">VOLTAR</string>
+
+    <string name="virtus_name">Volkswagen Virtus Exclusive</string>
+    <string name="corolla_name">Toyota Corolla</string>
+    <string name="jetta_name">Volkswagen Jetta GLI</string>
+
+    <string name="virtus_category">Sedan</string>
+    <string name="corolla_category">Sedan</string>
+    <string name="jetta_category">Sedan esportivo</string>
+
+    <string name="virtus_desc">Sedan da Volkswagen com proposta voltada para conforto, tecnologia, desempenho e uso cotidiano.</string>
+    <string name="corolla_desc">Sedan conhecido pelo conforto, confiabilidade e conjunto voltado para utilização urbana e rodoviária.</string>
+    <string name="jetta_desc">Sedan esportivo da Volkswagen com proposta de maior desempenho e condução mais dinâmica.</string>
+
+    <string name="label_motor">Motor:</string>
+    <string name="label_potencia">Potência:</string>
+    <string name="label_cambio">Câmbio:</string>
+    <string name="label_categoria">Categoria:</string>
+    <string name="label_descricao">Descrição:</string>
+    <string name="label_caracteristicas">PRINCIPAIS CARACTERÍSTICAS</string>
+
+    <string name="virtus_motor">1.4 TSI 250</string>
+    <string name="virtus_potencia">150 cv</string>
+    <string name="virtus_transmissao">Automática de 6 marchas</string>
+
+    <string name="corolla_motor">2.0 Dynamic Force / 1.8 Hybrid</string>
+    <string name="corolla_potencia">175 cv (2.0) / 122 cv (Hybrid)</string>
+    <string name="corolla_transmissao">CVT</string>
+
+    <string name="jetta_motor">2.0 TSI 350</string>
+    <string name="jetta_potencia">231 cv</string>
+    <string name="jetta_transmissao">DSG 7 marchas</string>
+</resources>
